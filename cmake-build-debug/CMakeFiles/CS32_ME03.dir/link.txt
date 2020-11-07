@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CS32_ME03.dir/main.c.o  -o CS32_ME03 
